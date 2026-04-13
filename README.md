@@ -52,6 +52,8 @@ This project demonstrates how decentralized governance (DAO-like systems) can be
 **Contract Address:**
 `CDRUXWBY4ECUYDQ54C7W56KDTH3ZERQLKYOSPD74MFXOVVTHK7XVGURL`
 
+Contract Link - https://stellar.expert/explorer/testnet/contract/CDRUXWBY4ECUYDQ54C7W56KDTH3ZERQLKYOSPD74MFXOVVTHK7XVGURL
+
 You can interact with the contract using the Soroban CLI or integrate it into a frontend application.
 
 ---
