@@ -1,4 +1,5 @@
 # 🗳️ Governance Toolkit (Soroban Smart Contract)
+<img width="1920" height="1020" alt="Screenshot 2026-04-13 134313" src="https://github.com/user-attachments/assets/06aaed23-5ddb-4dd1-a90e-dc0844c34ac0" />
 
 ## 📌 Project Description
 
